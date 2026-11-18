@@ -1,6 +1,6 @@
 # DarGlobal & Wasalt AI Chatbot
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 A lightweight, **retrieval‑augmented generation** (RAG) chatbot that answers property‑related questions about **DarGlobal** and **Wasalt**. The assistant scrapes publicly available data, builds a TF‑IDF knowledge base, and queries a free LLM via **OpenRouter**. It runs in a minimal Docker container and can be deployed to Render.com with a single click.
 
@@ -8,7 +8,7 @@ A lightweight, **retrieval‑augmented generation** (RAG) chatbot that answers p
 
 ## 🚀 Live Demo
 
-**URL:** https://darglobal-wasalt-chatbot.onrender.com
+**URL:** https://chatbot-or3g.onrender.com/
 
 ---
 
