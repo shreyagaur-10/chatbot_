@@ -6,7 +6,7 @@ An AI-powered chatbot built with data scraped from [DarGlobal](https://www.dargl
 
 ## 🚀 Live Demo
 
-**Deployed URL:** [https://darglobal-wasalt-chatbot.onrender.com](https://darglobal-wasalt-chatbot.onrender.com)
+**Deployed URL:** [https://chatbot-or3g.onrender.com/](https://chatbot-or3g.onrender.com/)
 
 ---
 
