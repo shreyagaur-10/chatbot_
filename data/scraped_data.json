@@ -1,0 +1,242 @@
+{
+  "darglobal": {
+    "company_overview": {
+      "name": "Dar Global PLC",
+      "legal_name": "DarGlobal PLC",
+      "type": "London-listed Luxury Real Estate Developer, Investor & Asset Manager",
+      "tagline": "Global Capital. Enduring Places.",
+      "description": "A London-listed luxury real estate developer, investor, and asset manager creating high-quality communities, landmark destinations, and lifestyle-driven assets across premier global markets, including the UAE, Saudi Arabia, Qatar, Spain, and London, spanning premium hospitality, commercial, entertainment, and exclusive golf communities. We own, invest, develop, and operate high-end real estate that delivers long-term value, combining global partnerships, strong fundamentals, and disciplined execution across target international property markets.",
+      "website": "https://www.darglobal.co.uk",
+      "stock_exchange": "London Stock Exchange (LSE)",
+      "headquarters": "London, UK",
+      "social_media": {
+        "facebook": "https://www.facebook.com/DarGlobal",
+        "twitter": "https://twitter.com/DarGlobal",
+        "linkedin": "https://www.linkedin.com/company/darglobal",
+        "instagram": "https://www.instagram.com/DarGlobal"
+      },
+      "whatsapp": "+97180040409"
+    },
+    "key_statistics": {
+      "track_record": "32 Years",
+      "gross_development_value": "$23 Billion",
+      "international_markets": 7,
+      "global_brand_partners": "12+",
+      "data_as_of": "Q3 2026"
+    },
+    "financial_results": {
+      "fy2025": {
+        "revenue": "US$538.6 million",
+        "gross_profit": "US$189.7 million",
+        "ebitda": "US$126.6 million",
+        "net_profit": "US$100.8 million",
+        "return_on_equity": "17.3%"
+      },
+      "fy2024": {
+        "revenue": "US$240.3 million",
+        "gross_profit": "US$87.4 million",
+        "ebitda": "US$30.1 million",
+        "net_profit": "US$14.9 million"
+      },
+      "hy2026": {
+        "revenue": "US$258.0 million",
+        "revenue_growth": "66% increase vs HY 2025",
+        "hy2025_revenue": "US$155.4 million"
+      },
+      "gdv_growth": {
+        "end_2024": "US$7.5 billion",
+        "end_2025": "US$19 billion",
+        "heading_2026": "US$23 billion"
+      }
+    },
+    "geographic_presence": [
+      "UAE (Dubai)",
+      "Saudi Arabia (Riyadh, Jeddah)",
+      "Qatar (Simaisma)",
+      "Oman (Muscat)",
+      "Spain",
+      "Greece",
+      "United Kingdom (London)",
+      "Maldives"
+    ],
+    "brand_partners": [
+      "The Trump Organization",
+      "Aston Martin",
+      "Automobili Lamborghini",
+      "Elie Saab",
+      "Missoni",
+      "W Hotels",
+      "Mouawad",
+      "FENDI Casa",
+      "Pagani",
+      "Dolce & Gabbana",
+      "Roberto Cavalli",
+      "de GRISOGONO"
+    ],
+    "latest_projects": [
+      {
+        "name": "AIDA",
+        "description": "One of the world's largest premium mixed-use developments.",
+        "location": "Muscat, Oman",
+        "type": "Masterplan",
+        "url": "https://www.darglobal.co.uk/landing-page/aida",
+        "details": "A clifftop community featuring ultra-luxury mansions, including Azure Oceanfront Villas with interiors by FENDI Casa. One of the most expansive and exclusive mixed-use real estate developments globally."
+      },
+      {
+        "name": "Trump International Simaisma, Qatar",
+        "description": "Trump International Golf Club resort development",
+        "location": "Simaisma, Qatar",
+        "type": "Luxury resort with golf club, villas",
+        "url": "https://www.darglobal.co.uk/lp/trump-international-qatar",
+        "details": "Features Trump Villas within Trump International Golf Club. Sales opened with unprecedented demand and strong investor interest."
+      },
+      {
+        "name": "Trump Mansions",
+        "description": "Ultra-luxury branded mansions in Riyadh",
+        "location": "Wadi Safar, Riyadh, Saudi Arabia",
+        "type": "Luxury Mansions",
+        "url": "https://www.darglobal.co.uk/rayana/trump-mansions"
+      },
+      {
+        "name": "Trump International Hotel & Tower, Dubai",
+        "description": "Luxury hotel and tower development in Dubai",
+        "location": "Dubai, UAE",
+        "type": "Hotel & Tower",
+        "details": "Construction contract awarded to Gulf Asia Contracting for the podium. One of Dubai's most anticipated luxury developments."
+      },
+      {
+        "name": "The Astera, Interiors by Aston Martin",
+        "description": "Luxury residences with Aston Martin interior design",
+        "location": "Dubai, UAE",
+        "type": "Luxury Residences"
+      },
+      {
+        "name": "Trump Plaza Jeddah",
+        "description": "Mixed-use development in Jeddah",
+        "location": "Jeddah, Saudi Arabia",
+        "type": "Mixed-use",
+        "details": "Part of a US$1.95 billion mixed-use masterplan in Jeddah."
+      },
+      {
+        "name": "Rayana (Diriyah)",
+        "description": "Luxury development in partnership with The Trump Organization",
+        "location": "Diriyah, Riyadh, Saudi Arabia",
+        "type": "Luxury Development",
+        "details": "Part of a ~US$2.8 billion integrated scheme including luxury villas, a golf course, and a hotel."
+      },
+      {
+        "name": "Jeddah Development",
+        "description": "New mixed-use development valued at SAR 1 billion (USD 267 million)",
+        "location": "Jeddah, Saudi Arabia",
+        "type": "Mixed-use",
+        "announcement_date": "November 2026"
+      },
+      {
+        "name": "Azure Oceanfront Villas by FENDI Casa",
+        "description": "Ultra-luxury mansions with interiors by FENDI Casa within AIDA community",
+        "location": "Muscat, Oman",
+        "type": "Ultra-luxury Villas",
+        "announcement_date": "June 2026"
+      },
+      {
+        "name": "Trump International Hotel Maldives",
+        "description": "Luxury hospitality project in the Maldives",
+        "location": "Maldives",
+        "type": "Luxury Hotel/Resort",
+        "details": "Announced late 2025, includes tokenized real estate formats."
+      }
+    ],
+    "recent_news": [
+      {
+        "headline": "Dar Global Expands Saudi Arabia Portfolio with New Jeddah Development Valued at SAR 1 Billion",
+        "date": "November 16, 2026",
+        "summary": "Dar Global announced plans for a new mixed-use development in Jeddah, Saudi Arabia, with an estimated gross development value (GDV) of approximately SAR 1 billion (USD 267 million)."
+      },
+      {
+        "headline": "Dar Global Capital Partners Targets High-Value Real Estate Opportunities in Dubai Across Global Investment Mandate",
+        "date": "October 26, 2026",
+        "summary": "Dar Global Capital Partners (DGCP), the alternative asset management arm, announced its strategic focus on deploying capital across international real estate markets through a dedicated cross-border mandate spanning the GCC, Europe, the United Kingdom, and the United States."
+      },
+      {
+        "headline": "Dar Global Opens Sales for Trump Villas Simaisma, Qatar with Unprecedented Interest",
+        "date": "October 7, 2026",
+        "summary": "Dar Global officially opened sales for Trump Villas within Trump International Golf Club Simaisma, Qatar, witnessing unprecedented demand and strong investor interest."
+      },
+      {
+        "headline": "Dar Global delivers 66% revenue growth in HY 2026 as portfolio GDV reaches $23bln",
+        "date": "September 30, 2026",
+        "summary": "Dar Global reported unaudited interim results for HY 2026, reporting a 66% revenue increase to US$258.0 million (HY 2025: US$155.4 million)."
+      },
+      {
+        "headline": "Dar Global appoints Gulf Asia Contracting for Trump International Hotel & Tower, Dubai",
+        "date": "August 6, 2026",
+        "summary": "Construction contract awarded to Gulf Asia Contracting for the podium of Trump International Hotel & Tower, Dubai."
+      },
+      {
+        "headline": "Dar Global and Fendi Casa announce Azure Oceanfront Villas in Oman",
+        "date": "June 29, 2026",
+        "summary": "Launch of Azure Oceanfront Villas, ultra-luxury mansions with interiors by FENDI Casa, set within the AIDA clifftop community in Muscat, Oman."
+      }
+    ],
+    "strategic_initiatives": {
+      "asset_management": "In late 2025, Dar Global initiated plans to enter financial services and asset management via DIFC (Dubai International Finance Centre) to build scalable investment vehicles and attract global capital.",
+      "dgcp": "Dar Global Capital Partners (DGCP) is the alternative asset management arm, focused on deploying capital across international real estate markets.",
+      "lse_milestone": "First GCC-based business to receive FCA approval for admission to the Equity Shares (Commercial Companies) category of the London Stock Exchange."
+    }
+  },
+  "wasalt": {
+    "company_overview": {
+      "name": "Wasalt",
+      "type": "PropTech (Property Technology) Company / Digital Real Estate Platform",
+      "description": "One of Saudi Arabia's leading PropTech companies and digital real estate platforms. Wasalt acts as an ecosystem connecting property seekers, investors, real estate developers, and brokers across major Saudi cities.",
+      "license": "Licensed by the Real Estate General Authority (REGA)",
+      "website": "https://www.wasalt.com",
+      "headquarters": "Saudi Arabia",
+      "coverage": "Major Saudi cities including Riyadh, Jeddah, Dammam, and Al-Khobar",
+      "parent_company": "Quara Holding (subsidiary)"
+    },
+    "core_services": [
+      {
+        "name": "Wasalt Search (AI-Powered Property Search)",
+        "description": "A digital platform utilizing artificial intelligence and data analytics to help users look for verified properties (for sale or rent). Features map-based searching, detailed filtering (price, area, features), and information on surrounding community amenities (schools, hospitals, mosques, etc.)."
+      },
+      {
+        "name": "Wasalt Auctions (Electronic & Hybrid Auctions)",
+        "description": "Manages private and official government auctions (including Infath auctions) for real estate, land plots, and other assets. Users can participate digitally by setting up an e-wallet and bidding directly from their mobile devices."
+      },
+      {
+        "name": "Wasalt Projects & Masterplans",
+        "description": "Collaborates with elite real estate developers to showcase major residential and commercial projects across the Kingdom. Allows buyers to browse master plans and reserve land plots or housing units (apartments, duplexes, villas) directly through the platform."
+      },
+      {
+        "name": "Wasalt Matchmaker / Shabeek (Networking)",
+        "description": "A matchmaking service where users can post specific property requirements, allowing verified agents and brokers to connect directly with them to fulfill their needs."
+      },
+      {
+        "name": "Wasalt Business (CRM for Brokers)",
+        "description": "A dedicated app/tool tailored for real estate agents and brokerages to manage listings, track tasks, handle customer relationship management (CRM), generate quality leads, and build team efficiency."
+      },
+      {
+        "name": "Christie's International Real Estate Saudi Arabia",
+        "description": "Partnership with the global luxury real estate brand Christie's International Real Estate to establish a high-end luxury brokerage arm in the Kingdom, catering specifically to the booming luxury property sector."
+      }
+    ],
+    "property_types": {
+      "residential": ["Villas", "Townhouses", "Apartments (for sale or rent)", "Residential compounds", "Duplexes"],
+      "land": ["Investment land plots", "Subdivision master plans", "Commercial land"],
+      "commercial": ["Offices", "Retail spaces", "Commercial buildings"]
+    },
+    "key_features": [
+      "AI-powered property search with smart filters",
+      "Map-based property browsing",
+      "Verified property listings",
+      "Community amenity information (schools, hospitals, mosques)",
+      "Digital auction participation via e-wallet",
+      "Direct developer project reservations",
+      "CRM tools for real estate professionals",
+      "Matchmaking between buyers and verified agents"
+    ],
+    "coverage_cities": ["Riyadh", "Jeddah", "Dammam", "Al-Khobar", "Makkah", "Madinah"],
+    "relationship_with_darglobal": "Wasalt and DarGlobal appear to be related entities - DarGlobal's website uses CDN resources from cdn.wasalt.com and wasalt.com font resources, suggesting a shared technology infrastructure or corporate relationship."
+  }
+}

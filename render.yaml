@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: darglobal-wasalt-chatbot
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: OPENROUTER_MODEL
+        value: liquid/lfm-3-1.7b:free
+    healthCheckPath: /api/health
+    plan: free
+
